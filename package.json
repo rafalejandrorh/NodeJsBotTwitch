@@ -1,0 +1,19 @@
+{
+  "name": "bottwitch",
+  "version": "1.0.0",
+  "description": "Bot de Twitch desarrollado con NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafalejandrorh/botTwitch.git"
+  },
+  "author": "Rafael Rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafalejandrorh/botTwitch/issues"
+  },
+  "homepage": "https://github.com/rafalejandrorh/botTwitch#readme"
+}
