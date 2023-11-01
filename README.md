@@ -6,3 +6,6 @@ Bot de Twitch desarrollado con NodeJs
 ### Generar OAuth Token de Twitch
 https://twitchapps.com/tmi/
 
+## Documentación
+https://dev.twitch.tv/docs/irc/get-started/
+
